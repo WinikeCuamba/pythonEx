@@ -1,2 +1,4 @@
 # pythonEx
- Exercicios de python gustavo guanabara
+
+"Exer cicios de Gustavo Guanabara para treinar "
+ Exercicios de python Gustavo Guanabara
